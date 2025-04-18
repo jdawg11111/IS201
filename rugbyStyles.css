@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #555;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.topnav {
+  background-color:  gray;
+  padding: 10px 20px;
+  text-align: right;
+}
+
+.topnav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.rugby-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+.intro, .leadership, .why-rugby, .video-section {
+  margin-bottom: 30px;
+}
+
+h1, h2 {
+  color: navy;
+}
+
+.back-to-top {
+  text-align: center;
+  margin-top: 20px;
+}
+.topnav {
+  text-align: right;
+  padding: 10px 20px;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #ccc;
+}
+
+.topnav a {
+  color: #333;
+  text-decoration: none;
+  margin-left: 15px;
+}
+
+.topnav a:hover {
+  text-decoration: underline;
+}
